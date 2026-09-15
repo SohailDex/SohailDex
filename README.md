@@ -1,29 +1,27 @@
 # 👋 Hi, I'm Mahammadsohel Badakar
 
-### ☁️ Data Engineer | AWS | Python | SQL | ETL | Cloud Data Pipelines
+### 📊 Data Analyst | SQL | Power BI | AWS | Data Validation & Reconciliation
 
-> I build reliable data pipelines, troubleshoot production data issues, and enjoy turning messy data into something useful.  
+> I dig into large, messy datasets, validate and reconcile them, and turn them into numbers businesses can actually trust and act on.
 > When I'm away from dashboards and SQL queries, you'll probably find me exploring a good story-driven game 🎮.
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Data Engineer with 4+ years of experience** working on cloud-based data applications and production data pipelines.
+I'm a **Data Analyst with 4+ years of experience** analyzing large-scale datasets, validating data accuracy, and delivering actionable business insights across cloud data platforms.
 
 My main areas of interest are:
 
-- ☁️ AWS & Cloud Data Engineering
-- 🐍 Python & PySpark
-- 🗄️ SQL, PostgreSQL, Oracle & Redshift
-- 🔄 ETL / ELT & Data Validation
-- 🌬️ Apache Airflow & MWAA
-- 🔧 Infrastructure as Code with AWS CDK
-- 📊 Data Quality, Monitoring & Reconciliation
-- 🧪 API & Automation Testing
-- 🚨 Production Support, RCA & Incident Management
+- 🗄️ SQL Querying, Validation & Reconciliation
+- ☁️ Cloud Data Platforms — AWS S3, Redshift, Athena
+- 📊 Business Reporting with Power BI & Excel
+- 🔍 Data Profiling & Root Cause Analysis (RCA)
+- 🚨 Data Quality Monitoring & Incident Resolution
+- 🧪 API Validation & Cross-Functional Collaboration
+- 🐍 Python for data processing
 
-I enjoy solving problems where **data + cloud + automation** come together.
+I enjoy solving problems where **data accuracy + business impact** come together.
 
 ---
 
@@ -32,80 +30,83 @@ I enjoy solving problems where **data + cloud + automation** come together.
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### AWS & Cloud
+### Cloud & Data Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
-### Data Engineering
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+### Visualization & Reporting
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ---
 
-## ☁️ What I Work On
+## 📊 How I Work With Data
 
 ```text
 Data Sources
      │
      ▼
-┌─────────────────┐
-│   ETL / ELT     │
-│ Python / Glue   │
-│    PySpark      │
-└────────┬────────┘
+┌──────────────────┐
+│   SQL Querying    │
+│ Joins / CTEs /    │
+│ Window Functions  │
+└────────┬──────────┘
          │
          ▼
-┌─────────────────┐
-│   Airflow /     │
-│      MWAA       │
-└────────┬────────┘
+┌──────────────────┐
+│ AWS S3 / Athena / │
+│     Redshift      │
+└────────┬──────────┘
          │
          ▼
-┌─────────────────┐
-│ AWS S3 / Athena │
-│   / Redshift    │
-└────────┬────────┘
+┌──────────────────┐
+│ Data Validation & │
+│  Reconciliation   │
+└────────┬──────────┘
          │
          ▼
-┌─────────────────┐
-│ Data Validation │
-│ SQL / Quality   │
-└────────┬────────┘
+┌──────────────────┐
+│ Root Cause        │
+│ Analysis (RCA)     │
+└────────┬──────────┘
          │
          ▼
-   Reliable Data 🚀
+┌──────────────────┐
+│ Excel / Power BI  │
+│    Reporting      │
+└────────┬──────────┘
+         │
+         ▼
+   Reliable Business Insights 🚀
 ```
 
 ---
 
 ## 🚀 What I Work On
 
-I focus on building and supporting **reliable cloud-based data solutions** while continuously improving my hands-on skills through personal projects.
+I focus on **analyzing, validating and reconciling large-scale datasets** so business teams can rely on accurate reporting, while continuously sharpening my skills through independent projects.
 
 ### ☁️ Areas I Work With
 
-- AWS cloud services and cloud-based data applications
-- Python and SQL for data processing and validation
-- ETL / ELT pipeline design
-- Apache Airflow and workflow orchestration
-- PySpark and large-scale data transformation
-- Amazon S3, Athena and Redshift
-- Data quality, reconciliation and validation
-- CloudWatch monitoring and alerting
-- Production troubleshooting and root-cause analysis
-- API validation and automation testing
+- SQL-based data validation, profiling and reconciliation
+- AWS cloud data platforms — S3, Athena, Redshift
+- Business reporting and dashboards in Excel and Power BI
+- Source-to-report data reconciliation
+- CloudWatch monitoring and alerting for data pipelines
+- Production troubleshooting and root-cause analysis (RCA)
+- API validation and cross-functional stakeholder collaboration
 
 > 🔒 **Note:** Company/client project names and proprietary implementation details are intentionally not included here.
 
@@ -113,50 +114,51 @@ I focus on building and supporting **reliable cloud-based data solutions** while
 
 ## 🧪 Personal Projects
 
-I'm building independent GitHub projects to demonstrate my practical skills in **AWS, Python, SQL, Data Engineering and testing**.
+I'm building independent GitHub projects to demonstrate my practical skills in **SQL, Power BI, AWS and data validation**.
 
 | Project | Technologies | Focus |
 |---|---|---|
-| ☁️ AWS Data Pipeline | Python, S3, SQL | Cloud ETL |
-| 🐍 Python Data Engineering | Python, Pandas, SQL | Data Processing |
-| 🌬️ Airflow Pipeline | Airflow, Python | Workflow Orchestration |
-| 🧪 Data Quality Framework | Python, SQL | Validation & Testing |
-| 📊 Cloud Analytics | AWS, SQL | Analytics & Reporting |
+| 🗄️ SQL Data Validation Toolkit | SQL, Python | Validation & Reconciliation |
+| 📊 Power BI Sales Dashboard | Power BI, Excel | Business Reporting |
+| ☁️ Cloud Data Analysis | AWS, S3, Redshift, SQL | Analytics & Querying |
+| 🧪 Data Quality Framework | Python, SQL | Profiling & QA Checks |
+| 📈 Excel Reporting Automation | Excel, VBA/Formulas | Reporting Automation |
 
 These projects are designed to demonstrate what I can **build independently**, rather than exposing work from my professional environment.
 
 ---
 
-## 🔍 Data Engineering Experience
+## 🔍 Data Analyst Experience
 
-### Production & Reliability
-- Supported AWS-backed enterprise data applications with **99%+ uptime**.
-- Monitored **15+ scheduled Airflow workflows**.
-- Investigated failed DAG tasks and restored pipelines within SLA.
-- Configured CloudWatch logs and alarms for proactive monitoring.
-- Performed RCA for recurring pipeline and data-quality issues.
+### Data Validation & Quality
+- Analyzed and validated large-scale datasets across **Amazon S3, Athena and Redshift**.
+- Wrote and optimized complex SQL (**joins, subqueries, CTEs, window functions**) for validation and transformation checks, cutting manual review time by **~20%**.
+- Built reusable SQL scripts for source-to-report data reconciliation, catching discrepancies earlier.
+- Performed SQL-based data profiling and quality checks for accuracy, completeness and consistency.
+- Tuned SQL queries and indexing on high-volume datasets, improving query runtime by **~25%**.
 
-### SQL & Data Quality
-- Advanced SQL using **joins, CTEs, subqueries and window functions**.
-- Source-to-target data reconciliation.
-- Data profiling and validation.
-- Transformation and completeness checks.
-- Query tuning and indexing for high-volume datasets.
+### Monitoring & Reliability
+- Monitored **15+ scheduled data workflows**, diagnosing failures and ensuring timely delivery within SLA.
+- Configured AWS CloudWatch logs and alarms to proactively detect data anomalies.
+- Led root cause analysis on recurring data quality issues, partnering with data, application and business teams.
 
-### Testing
-- Manual, functional, regression and integration testing.
-- Selenium WebDriver + Java + TestNG.
-- REST API validation using Postman.
-- JIRA-based defect tracking.
+### Reporting & Stakeholder Collaboration
+- Built and maintained Excel and Power BI dashboards for business stakeholders to track data quality metrics and reporting trends.
+- Partnered with business and finance stakeholders to translate reporting requirements into validation logic.
+- Logged and resolved data quality defects using JIRA, and documented validation rules in Confluence.
+- Collaborated with onshore/offshore stakeholders and mentored new team members on SQL debugging and validation best practices.
 
 ---
 
 ## 🏆 Certifications
 
+- ☁️ AWS Certified Data Engineer
 - ☁️ AWS Certified Cloud Practitioner
-- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
-- 🗄️ Oracle Certified Foundation Associate
 - 🗄️ Oracle Certified Professional — MySQL 8.0 Database Administrator
+- 🗄️ Oracle Certified Foundation Associate
+- 🤖 Oracle Fusion AI Agent Studio Certified Developer
+- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+- ☁️ Microsoft Certified: Azure Infrastructure Solutions (AZ-305)
 
 ---
 
@@ -183,7 +185,7 @@ I enjoy **story-driven and immersive games**, especially games with:
 
 ### 🎮 Games & Chill Zone
 
-> **When the pipelines are green and the DAGs are happy, it's gaming time. 🎮😎**
+> **When the dashboards are refreshed and the numbers reconcile, it's gaming time. 🎮😎**
 
 I'm into **story-driven, cinematic and open-world games** — the kind where you can lose track of time exploring the world.
 
@@ -215,11 +217,11 @@ Grinding?     ███████░░░  7/10
 Multiplayer?  ██████░░░░  6/10
 ```
 
-**Favorite gaming vibe:**  
+**Favorite gaming vibe:**
 `🎬 Story → 🗺️ Explore → ⚔️ Fight → 🔥 Complete Mission → "Just one more mission..."`
 
-**Current gaming mood:**  
-`☕ Work → 💻 Code → 📊 Data → 🟢 Pipeline Success → 🎮 Game → 😴 Repeat`
+**Current data-analyst mood:**
+`☕ Work → 📊 Query → ✅ Validate → 🟢 Reports Reconciled → 🎮 Game → 😴 Repeat`
 
 > *"Sometimes the best debugging session is followed by a good gaming session."* 😄
 
@@ -227,43 +229,42 @@ Multiplayer?  ██████░░░░  6/10
 
 ## 🧠 Current Learning Goals
 
-- 🔥 Deepen AWS Data Engineering skills
-- 🐍 Improve Python for production data pipelines
-- ⚡ Build more PySpark projects
-- 🌬️ Improve Airflow/MWAA orchestration
-- 🏗️ Strengthen AWS CDK & Infrastructure as Code
-- 🧪 Improve automated testing for data pipelines
-- 📈 Build portfolio projects with real-world cloud architecture
+- 🔥 Deepen SQL and data reconciliation skills
+- 📊 Build more advanced Power BI dashboards
+- 🐍 Improve Python for data analysis and automation
+- ☁️ Strengthen AWS data platform skills (S3, Redshift, Athena)
+- 🧪 Improve automated data quality checks
+- 📈 Build portfolio projects with real-world reporting scenarios
 
 ---
 
 ## 📂 GitHub Projects
 
-I'm building projects that demonstrate **practical Data Engineering + AWS skills**, rather than just tutorial code.
+I'm building projects that demonstrate **practical Data Analyst skills**, rather than just tutorial code.
 
 | Project | Technologies | Focus |
 |---|---|---|
-| 🚀 AWS Data Pipeline | Python, AWS, S3, SQL | Cloud ETL |
-| 📊 Analytics Pipeline | PySpark, Glue, Redshift | Data Transformation |
-| 🌬️ Airflow Pipeline | Airflow, Python | Workflow Orchestration |
-| 🧪 Data Quality Framework | Python, SQL | Validation & Testing |
+| 🗄️ SQL Data Validation Toolkit | SQL, Python | Validation & Reconciliation |
+| 📊 Power BI Sales Dashboard | Power BI, Excel | Business Reporting |
+| ☁️ Cloud Data Analysis | AWS, S3, Redshift, SQL | Analytics & Querying |
+| 🧪 Data Quality Framework | Python, SQL | Profiling & QA Checks |
 
 ---
 
 ## 📫 Let's Connect
 
-📧 **Email:** mahammadsohelbadkar@gmail.com  
-🌐 **Portfolio:** sohaildex.github.io/Portfolio
+📱 **Phone:** +91 72597 52945
+🌐 **GitHub:** [github.com/SohailDex/SohailDex](https://github.com/SohailDex/SohailDex)
 
 ---
 
-### 💡 My Engineering Philosophy
+### 💡 My Analyst Philosophy
 
-> **Build it. Test it. Monitor it. Automate it. Improve it.**
+> **Query it. Validate it. Reconcile it. Report it. Trust it.**
 
-I believe good data engineering isn't only about moving data from A → B.
+I believe good data analysis isn't only about running queries.
 
-It's about building pipelines that are **reliable, observable, testable and maintainable**.
+It's about delivering numbers that are **accurate, reliable and ready for business decisions**.
 
 ---
 
